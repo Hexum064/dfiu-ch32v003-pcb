@@ -1,4 +1,4 @@
-23848286803878617
+23855213535093472
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -566,6 +566,13 @@ Matias ALPS keyswitch ISO enter
 0
 2
 2
+Button_Switch_SMD
+KEY-SMD_4P-L12.0-W12.0-P5.00-LS15.2
+
+
+0
+4
+4
 Button_Switch_SMD
 Nidec_Copal_CAS-120A
 Slide Switch, SMD, Nidec CAS series, https://www.nidec-components.com/e/catalog/switch/cas.pdf
@@ -63294,6 +63301,13 @@ LUMILEDS LUXEON TX L1T2 LED
 3
 3
 LED_SMD
+LED-SMD_4P-L1.6-W1.5_XL-1615RGBC-WS2812B
+
+
+0
+4
+4
+LED_SMD
 LED_1W_3W_R8
 https://www.gme.cz/data/attachments/dsh.518-234.1.pdf
 LED 1W 3W 5W
@@ -88801,6 +88815,13 @@ IND_SRP1265A-100M
 0
 2
 2
+SW4_1825910-I_TEC
+SW4_1825910-I_TEC
+
+3-1825910-5 
+0
+4
+4
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -95724,6 +95745,13 @@ ganpx gs66508b
 0
 15
 4
+Transistor_Power
+SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR
+
+
+0
+3
+3
 Transistor_Power_Module
 Infineon_AG-ECONO2
 28-lead TH, EconoPACK 2, same as Littelfuse_Package_H_XN2MM, https://www.infineon.com/dgdl/Infineon-FS75R07N2E4-DS-v02_00-en_de.pdf?fileId=db3a30432f5008fe012f52f916333979
